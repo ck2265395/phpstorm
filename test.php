@@ -5,6 +5,6 @@
  * Date: 2016/10/13
  * Time: 14:31
  * xdsd
- */
+ */sdsfs
 echo phpinfo();
 exit();
