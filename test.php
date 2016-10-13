@@ -4,7 +4,7 @@
  * User: Mr Chen
  * Date: 2016/10/13
  * Time: 14:31
- * xdsdsad
+ * xdsdsa
  */
 echo phpinfo();
 exit();
